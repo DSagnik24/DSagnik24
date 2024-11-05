@@ -4,6 +4,8 @@
 - 🌱 I’m learning web development and data science.
 - 📫 How to reach me: sagnikduttaofficial18@gmial.com
 
+  
+![LeetCode Stats](https://leetcard.jacoblin.cool/Sagnik_Dutta_10)
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DSagnik24&show_icons=true&theme=dark)
