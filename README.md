@@ -31,7 +31,7 @@
 ![Postman](https://skillicons.dev/icons?i=postman)
 
 ### Platforms and Services
-![IntelliJ IDEA](https://skillicons.dev/icons?i=intellij)
+![IntelliJ IDEA](https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![Netlify](https://skillicons.dev/icons?i=netlify)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
