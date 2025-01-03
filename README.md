@@ -8,7 +8,7 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Sagnik_Dutta_10)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DSagnik24&show_icons=true&theme=dark) ![GitHub Streak](https://streak-stats.demolab.com?user=DSagnik24&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DSagnik24&show_icons=true&theme=dark)            ![GitHub Streak](https://streak-stats.demolab.com?user=DSagnik24&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DSagnik24&layout=compact&theme=dark)
 
